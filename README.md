@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/fawaziwalewa/single-price-grid-component](https://github.com/fawaziwalewa/single-price-grid-component)
+- Solution URL: [https://www.frontendmentor.io/solutions/single-price-grid-component---tailwindcss-ktgZ1b7JC0](https://www.frontendmentor.io/solutions/single-price-grid-component---tailwindcss-ktgZ1b7JC0)
 - Live Site URL: [https://single-price-grid-component-nine-flame.vercel.app/](https://single-price-grid-component.vercel.app)
 
 ## My process
